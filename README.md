@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/paf512euxpwk3qqk?svg=true)](https://ci.appveyor.com/project/NastyaImp/aqa-2patterns)
